@@ -1,12 +1,6 @@
-## Hi there 👋
+## Hi everyone!We're SunriseTechStudio 👋
+Our studio is set up with some students in China.(~~We All like minecraft~~).We create project and programs use C# java C++ and others.We just have 7 members,here are the introduction of us:
 
-<!--
+**introduction of Members:**
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
