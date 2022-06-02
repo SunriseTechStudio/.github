@@ -1,9 +1,13 @@
-## Hi everyone!We're SunriseTechStudio 👋
-Our studio is set up with some students in China.(~~We All like minecraft~~).We create project and programs use C# java C++ and others.We just have 7 members,here are the introduction of us:
+## introduction/介绍
+
+The junior high school students' development team from China, nice to meet you here! We create all kinds of interesting open source projects. Welcome to join us!
+
+来自中国的初中生开发团队，很高兴在这里见到大家！我们创作各种有趣的开源项目，欢迎关注和加入！
 
 ## members/成员
 
-- [Cube/立方体](https://github.com/orgs/SunriseTechStudio/people/hehe1005566889)
+- [Cube/立方体](
+https://github.com/orgs/SunriseTechStudio/people/hehe1005566889)
 
 The founder of the studio,good at making all kinds of interesting and practical gadgets with c#, C++ and Java. (personal signature: minecraft yyds! (Miku yyds))
 
