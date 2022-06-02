@@ -25,7 +25,7 @@ Front end network expert, proficient in HTML, CSS, JS, PHP, can open various web
 
 前端网络高手，精通HTML，CSS，JS，PHP，会开各种网站。同时精通mc服务器的运营。（个人签名：草方块喜欢吃海星）
 
--[MCSteve/MC方块人](https://github.com/orgs/SunriseTechStudio/people/mcfangkuairen)
+- [MCSteve/MC方块人](https://github.com/orgs/SunriseTechStudio/people/mcfangkuairen)
 
 The tester in the studio has the ability to find bugs comparable to the MC community (personal signature: it's so f**king fun to hack!)
 
