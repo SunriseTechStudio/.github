@@ -11,7 +11,7 @@ https://github.com/orgs/SunriseTechStudio/people/hehe1005566889)
 
 The founder of the studio,good at making all kinds of interesting and practical gadgets with c#, C++ and Java. (personal signature: minecraft yyds! (Miku yyds))
 
-工作室的创始人，（老二次元）。擅长用C#,C++和Java搞各种有意思的实用的小玩意。（个人签名：Minecraft YYDS!(MIKU yyds)）
+工作室的创始人，（老二次元）。用C#,C++和Java搞各种有意思的实用的玩意。（个人签名：Minecraft YYDS!(MIKU yyds)）
 
 - [GrassBlock2022/草方块](https://github.com/orgs/SunriseTechStudio/people/Grass-block)
 
@@ -29,7 +29,13 @@ Front end network expert, proficient in HTML, CSS, JS, PHP, can open various web
 
 The tester in the studio has the ability to find bugs comparable to the MC community (personal signature: it's so f**king fun to hack!)
 
-工作室的测试人员，找bug能力堪比mc社区（个人签名：开挂真tm好玩）
+工作室的测试人员，找bug能力堪比mc社区（个人签名：开挂真tm好玩）  
+
+- [BDSsama/BDS](https://github.com/orgs/SunriseTechStudio/people/BDSsama)  
+
+BDS is new to programming,studying c# language and kotlin language.Also he help us to test program and debug.一名学习编程的新成员，
+
+主攻C# 与 kotlin语言，也常常帮助我们测试程序的找bug
 
 ## Projects/项目
 
