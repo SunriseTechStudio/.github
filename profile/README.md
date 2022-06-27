@@ -36,6 +36,10 @@ The tester in the studio has the ability to find bugs comparable to the MC commu
 BDS is new to programming,studying c# language and kotlin language.Also he help us to test program and debug.一名学习编程的新成员，
 
 主攻C# 与 kotlin语言，也常常帮助我们测试程序的找bug
+- [Microwsc](https://github.com/orgs/SunriseTechStudio/people/Microwsc)  
+Microwsc is our team members, he helped Cube a lot to find bugs or give useful suggestion.And also a good manger for our team.  
+
+Microwsc是我们的一名团队成员，他帮助Cube很多，例如找bug和提建议(修改一些反人类的设计 。当然也是团队的好管理  
 
 ## Projects/项目
 
