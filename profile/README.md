@@ -43,7 +43,7 @@ Microwsc是我们的一名团队成员，他帮助Cube很多，例如找bug和�
 
 ## Projects/项目
 
-- [OpenMC](https://github.com/SunriseTechStudio/Open-MC)
+- [Cubecraft](https://github.com/SunriseTechStudio/Open-MC)
 
 This is a test platform basic(or maybe,modified version)from minecraft classic 0.0.13a. 
 
