@@ -23,7 +23,7 @@ The last member to enter the studio.Currently learning springboot, JavaFX and pa
 
 Front end network expert, proficient in HTML, CSS, JS, PHP, can open various websites. (personal signature: GrassBlock2022 likes to eat starfish)
 
-前端网络高手，精通HTML，CSS，JS，PHP，会开各种网站。同时精通mc服务器的运营。（个人签名：草方块喜欢吃海星）
+前端网络高手，精通HTML，CSS，JS，PHP，会开各种网站。在作为测试Bug工具人的同时精通mc服务器的运营。（个人签名：草方块喜欢吃海星！）
 
 - [MCSteve/MC方块人](https://github.com/orgs/SunriseTechStudio/people/mcfangkuairen)
 
@@ -39,7 +39,7 @@ BDS is new to programming,studying c# language and kotlin language.Also he help 
 - [Microwsc](https://github.com/orgs/SunriseTechStudio/people/Microwsc)  
 Microwsc is our team members, he helped Cube a lot to find bugs or give useful suggestion.And also a good manger for our team.  
 
-Microwsc是我们的一名团队成员，他帮助Cube很多，例如找bug和提建议(修改一些反人类的设计 。当然也是团队的好管理  
+Microwsc是我们的一名团队成员，他帮助Cube很多，例如找bug和提建议(修改一些反人类的设计 。当然也是团队的好管理）
 
 ## Projects/项目
 
