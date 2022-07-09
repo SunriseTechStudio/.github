@@ -2,7 +2,7 @@
 
 The junior high school students' development team from China, nice to meet you here! We create all kinds of interesting open source projects. Welcome to join us!
 
-来自中国的初中生开发团队，很高兴在这里见到大家！我们创作各种有趣的开源项目，欢迎关注和加入！
+来自中国的初中生开发团队，很高兴在这里见到大家！我们创作各种有趣的开源项目，欢迎关注和加入我们！
 
 ## members/成员
 
@@ -25,11 +25,11 @@ Front end network expert, proficient in HTML, CSS, JS, PHP, can open various web
 
 前端网络高手，精通HTML，CSS，JS，PHP，会开各种网站。在作为测试Bug工具人的同时精通mc服务器的运营。（个人签名：草方块喜欢吃海星！）
 
-- [MCSteve/MC方块人](https://github.com/orgs/SunriseTechStudio/people/mcfangkuairen)
+- [MCSteve/一个方块人](https://github.com/orgs/SunriseTechStudio/people/mcfangkuairen)
 
 The tester in the studio has the ability to find bugs comparable to the MC community (personal signature: it's so f**king fun to hack!)
 
-工作室的测试人员，找bug能力堪比mc社区（个人签名：开挂真tm好玩）  
+工作室的测试人员，搞事情能力堪比mc社区（个人签名：开挂真tm好玩）  
 
 - [BDSsama/BDS](https://github.com/orgs/SunriseTechStudio/people/BDSsama)  
 
